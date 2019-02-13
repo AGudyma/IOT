@@ -1,5 +1,5 @@
 <?php
-   	include("connect.php");
+   	include("connectPDO.php");
    	
    	$link=Connection();
 

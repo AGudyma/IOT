@@ -1,10 +1,8 @@
 <?php
 
-	include("connect.php"); 	
+	include("connectPDO.php");
 	
-//	$link=Connection();
 
-//	$result=mysql_query("SELECT * FROM `tempLog` ORDER BY `timeStamp` DESC",$link);
 ?>
 
 <html>
@@ -17,13 +15,24 @@
    <table border="1" cellspacing="1" cellpadding="1">
 		<tr>
 			<td>&nbsp;Timestamp&nbsp;</td>
-			<td>&nbsp;Temperature 1&nbsp;</td>
-			<td>&nbsp;Moisture 1&nbsp;</td>
+			<td>&nbsp;id </td>
+			<td>&nbsp;message</td>
 		</tr>
 
       <?php
-      echo "select from DB";
-//		  if($result!==FALSE){
+      echo "select from DB"."<br>";
+//      var_dump($result);
+
+		  if($result!==FALSE){
+
+              foreach ($result as $point) {
+//                  echo $point[0];
+//                  var_dump($point);
+//                  echo "<br>";
+                  printf("<tr><td> &nbsp;%s </td><td> &nbsp;%s&nbsp; </td><td> &nbsp;%s&nbsp; </td></tr>",
+                      $point["recorded"], $point["num"], $point["message"]);
+              }
+          }
 //		     while($row = mysql_fetch_array($result)) {
 //		        printf("<tr><td> &nbsp;%s </td><td> &nbsp;%s&nbsp; </td><td> &nbsp;%s&nbsp; </td></tr>",
 //		           $row["timeStamp"], $row["temperature"], $row["humidity"]);

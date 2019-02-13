@@ -2,291 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="023a5ff4-99de-4935-9079-fe37283c4eac" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PhpSerial.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ard2.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ard3.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ard4.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ardu_ser.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/command_console.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/esp_message_from_server.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/install.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/GPLv3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/change.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/class/pBarcode128.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/class/pBarcode39.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/class/pBubble.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/class/pCache.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/class/pData.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/class/pDraw.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/class/pImage.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/class/pIndicator.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/class/pPie.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/class/pRadar.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/class/pScatter.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/class/pSplit.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/class/pSpring.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/class/pStock.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/class/pSurface.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/data/128B.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/data/39.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/buildAll.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/delayedLoader/delayedLoading.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/delayedLoader/draw.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/delayedLoader/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/delayedLoader/wait.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.Combo.area.lines.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.Combo.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.Mixed.classes.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.addRandomValues.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.barcode.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.barcode128.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.barcode39.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.basic.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.cache.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.createFunctionSerie.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.createFunctionSerie.scatter.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.draw2DPie.labels.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.draw2DPie.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.draw2DRing.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.draw2DRingValues.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.draw3DPie.labels.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.draw3DPie.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.draw3DPie.transparent.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.draw3DRing.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.draw3DRingValues.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawAnscombeQuartet.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawAntialiasPixel.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawAreaChart.enhanced.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawAreaChart.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawAreaChart.simple.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawAreaChart.threshold.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawAreaMirror.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawArrow.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawArrowLabel.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawBarChart.borders.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawBarChart.can.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawBarChart.floating.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawBarChart.palette.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawBarChart.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawBarChart.poll.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawBarChart.shaded.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawBarChart.simple.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawBarChart.spacing.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawBarChart.span.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawBarChart.vertical.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawBestfit.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawBezier.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawBubbleChart.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawBubbleChart.simple.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawBubbleChart.square.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawCircle.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawContour.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawDerivative.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawDerivative.simple.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawFilledCircle.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawFilledRectangle.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawFilledSplineChart.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawFilledSplineChart.threshold.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawFilledStepChart.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawFromGIF.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawFromJPG.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawFromPNG.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawGeometricMean.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawGradientArea.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawHarmonicMean.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawIndicator.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawLabel.barchart.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawLabel.bubble.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawLabel.caption.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawLabel.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawLabel.scatter.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawLabel.stacked.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawLabel.vertical.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawLegend.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawLine.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawLineChart.network.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawLineChart.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawLineChart.plots.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawLineChart.reversed.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawLineChart.simple.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawMedian.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawPieLegend.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawPlotChart.icon.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawPlotChart.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawPlotChart.simple.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawPolygon.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawProgress.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawRectangle.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawRoundedFilledRectangle.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawRoundedRectangle.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawScale.color.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawScale.custom.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawScale.dates.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawScale.floating.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawScale.labels.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawScale.manual.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawScale.multiple.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawScale.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawScale.reverse.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawScatter.shape.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawScatter.simple.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawScatterBestFit.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawScatterLineChart.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawScatterLineChart.trigo.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawScatterPlotChart.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawScatterScale.manual.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawScatterScale.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawScatterSplineChart.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawSimple.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawSpline.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawSplineChart.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawSplineChart.reversed.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawSplineChart.simple.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawStackedAreaChart.normalized.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawStackedAreaChart.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawStackedAreaChart.simple.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawStackedBarChart.border.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawStackedBarChart.can.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawStackedBarChart.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawStackedBarChart.pyramid.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawStackedBarChart.rounded.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawStackedBarChart.shaded.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawStandardDeviation.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawStepChart.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawStepChart.simple.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawStockChart.median.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawStockChart.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawStockChart.simple.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawSurface.palette.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawSurface.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawSurface.simple.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawText.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawThreshold.labels.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawThreshold.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawThresholdArea.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawXThreshold.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawXThresholdArea.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawZoneChart.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.drawingObjects.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.normalize.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.polar.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.polar.values.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.radar.fixedmax.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.radar.labels.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.radar.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.radar.values.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.setFontProperties.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.setShadow.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.singlebarcode128.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.singlebarcode39.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.split.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.spring.complex.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.spring.labels.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.spring.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.spring.relations.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.text.alignment.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.transparent.background.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/example.writeBounds.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/imageMap/imagemap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/imageMap/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/imageMap/scripts/2DPie.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/imageMap/scripts/2DRing.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/imageMap/scripts/3DPie.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/imageMap/scripts/3DRing.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/imageMap/scripts/AreaChart.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/imageMap/scripts/BarChart.labels.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/imageMap/scripts/BarChart.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/imageMap/scripts/BubbleChart.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/imageMap/scripts/LineChart.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/imageMap/scripts/PlotChart.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/imageMap/scripts/PolarChart.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/imageMap/scripts/RadarChart.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/imageMap/scripts/ScatterLineChart.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/imageMap/scripts/ScatterPlotChart.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/imageMap/scripts/ScatterSplineChart.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/imageMap/scripts/Shapes.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/imageMap/scripts/SplineChart.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/imageMap/scripts/StackedBarChart.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/imageMap/scripts/StepChart.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/imageMap/scripts/StockChart.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/resources/accept.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/resources/application_view_list.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/resources/application_view_tile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/resources/blocnote.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/resources/chart_bar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/resources/chart_line.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/resources/computer.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/resources/dash-explorer-blank.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/resources/dash-explorer-last.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/resources/dash-explorer-noleaf.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/resources/dash-explorer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/resources/dash.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/resources/dataset.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/resources/folder.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/resources/hologram.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/resources/landscape1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/resources/landscape2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/resources/palette.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/resources/serie1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/resources/serie2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/resources/wait.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/sandbox/graphix/accept.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/sandbox/graphix/application_form.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/sandbox/graphix/background.console.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/sandbox/graphix/chart_bar.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/sandbox/graphix/chart_bar_edit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/sandbox/graphix/chart_curve.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/sandbox/graphix/chart_line.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/sandbox/graphix/cog.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/sandbox/graphix/color_swatch.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/sandbox/graphix/comment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/sandbox/graphix/database_table.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/sandbox/graphix/layout_edit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/sandbox/graphix/page_edit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/sandbox/graphix/paintcan.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/sandbox/graphix/shape_flip_vertical.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/sandbox/graphix/tab.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/sandbox/graphix/vector.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/sandbox/graphix/wait.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/sandbox/graphix/wand.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/sandbox/graphix/wrench.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/sandbox/includes/arrow.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/sandbox/includes/constants.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/sandbox/includes/cross.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/sandbox/includes/functions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/sandbox/includes/hs.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/sandbox/includes/hv.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/sandbox/includes/jscolor.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/sandbox/includes/rounded_corners_lite.inc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/sandbox/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/sandbox/script/render.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/sandbox/script/session.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/examples/sandbox/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/fonts/Bedizen.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/fonts/Forgotte.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/fonts/GeosansLight.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/fonts/MankSans.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/fonts/Silkscreen.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/fonts/advent_light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/fonts/calibri.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/fonts/pf_arma_five.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/fonts/verdana.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/palettes/autumn.color" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/palettes/blind.color" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/palettes/evening.color" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/palettes/kitchen.color" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/palettes/light.color" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/palettes/navy.color" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/palettes/shade.color" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/palettes/spring.color" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/palettes/summer.color" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pChart 2/pChart2.1.4/readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php_serial/SerialPortTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view.php" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/connectPDO.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/connect_proc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a4f3f702-ddc4-47c3-a50a-272c3b7112f7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/a4f3f702-ddc4-47c3-a50a-272c3b7112f7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add.php" beforeDir="false" afterPath="$PROJECT_DIR$/add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/connect.php" beforeDir="false" afterPath="$PROJECT_DIR$/connect.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -294,9 +18,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="DONT_SYNCHRONIZE">
-    <pharConfigPath>$PROJECT_DIR$/php-qrcode/composer.json</pharConfigPath>
-  </component>
+  <component name="ComposerSettings" synchronizationState="DONT_SYNCHRONIZE" />
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
     <option name="GROUP_DATA_SOURCES" value="true" />
@@ -311,7 +33,25 @@
     <expand>
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="testing@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="test_arduino@192.168.0.103" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test_arduino@192.168.0.103" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test_arduino@192.168.0.103" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="test_arduino: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test_arduino@192.168.0.103" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="test_arduino: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="hello_arduino: table" type="98d5ac3d:MysqlImplModel$Table" />
       </path>
     </expand>
     <select />
@@ -365,33 +105,89 @@
     <session id="142970854">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="php" value="6" />
+          <entry key="ini" value="1" />
+          <entry key="json" value="1" />
+          <entry key="php" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PHP" value="6" />
+          <entry key="Ini" value="1" />
+          <entry key="JSON" value="1" />
+          <entry key="PHP" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="ini" value="6" />
+          <entry key="php" value="375" />
+          <entry key="txt" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="2" />
+          <entry key="Ini" value="6" />
+          <entry key="PHP" value="373" />
+          <entry key="PLAIN_TEXT" value="8" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chartJS.php">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/connectPDO.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="128">
+              <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/charts/googleLineChart.php">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="32" column="38" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
+              <folding>
+                <element signature="e#9#15#0" expanded="true" />
+                <element signature="e#28#34#0" expanded="true" />
+                <element signature="e#36#42#0" expanded="true" />
+                <element signature="e#53#59#0" expanded="true" />
+                <element signature="e#61#67#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/add.php">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa4644.44177/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="27" column="77" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="27" selection-end-column="77" />
+              <folding>
+                <element signature="e#9#15#0" expanded="true" />
+                <element signature="e#28#34#0" expanded="true" />
+                <element signature="e#36#42#0" expanded="true" />
+                <element signature="e#53#59#0" expanded="true" />
+                <element signature="e#61#67#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pdo</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -403,7 +199,6 @@
         <option value="$PROJECT_DIR$/chartJS.php" />
         <option value="$PROJECT_DIR$/googleLineChart.php" />
         <option value="$PROJECT_DIR$/googleLineChartPhpJson.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/example.php" />
         <option value="$PROJECT_DIR$/ardu_ser.php" />
         <option value="$PROJECT_DIR$/php_serial/SerialPortTest.php" />
@@ -417,6 +212,12 @@
         <option value="$PROJECT_DIR$/command_console.php" />
         <option value="$PROJECT_DIR$/esp_message_from_server.php" />
         <option value="$PROJECT_DIR$/qr_code_reader.php" />
+        <option value="$PROJECT_DIR$/connect_proc.php" />
+        <option value="C:/php/php.ini" />
+        <option value="$PROJECT_DIR$/connect1.php" />
+        <option value="$PROJECT_DIR$/connect.php" />
+        <option value="$PROJECT_DIR$/connectPDO.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -430,11 +231,11 @@
     <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
-  <component name="ProjectFrameBounds">
-    <option name="x" value="51" />
-    <option name="y" value="196" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="37" />
+    <option name="y" value="288" />
     <option name="width" value="1855" />
-    <option name="height" value="764" />
+    <option name="height" value="620" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -462,7 +263,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -476,36 +277,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.qr_code_reader.php">
+  <component name="RunManager" selected="PHP Script.index.php">
     <configuration name="SerialPortTest.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/php_serial/SerialPortTest.php">
-      <method v="2" />
-    </configuration>
-    <configuration name="ard2.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/ard2.php">
       <method v="2" />
     </configuration>
     <configuration name="ard3.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/ard3.php">
       <method v="2" />
     </configuration>
-    <configuration name="googlePieChart.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/googlePieChart.php">
+    <configuration name="connectPDO.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/connectPDO.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/index.php">
       <method v="2" />
     </configuration>
     <configuration name="qr_code_reader.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/qr_code_reader.php">
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="PHP Script.googlePieChart.php" />
-      <item itemvalue="PHP Script.ard2.php" />
       <item itemvalue="PHP Script.SerialPortTest.php" />
       <item itemvalue="PHP Script.ard3.php" />
       <item itemvalue="PHP Script.qr_code_reader.php" />
+      <item itemvalue="PHP Script.connectPDO.php" />
+      <item itemvalue="PHP Script.index.php" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.index.php" />
+        <item itemvalue="PHP Script.connectPDO.php" />
         <item itemvalue="PHP Script.qr_code_reader.php" />
         <item itemvalue="PHP Script.ard3.php" />
         <item itemvalue="PHP Script.SerialPortTest.php" />
-        <item itemvalue="PHP Script.ard2.php" />
-        <item itemvalue="PHP Script.googlePieChart.php" />
       </list>
     </recent_temporary>
   </component>
@@ -532,18 +333,17 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37045000" />
+    <option name="totallyTimeSpent" value="45807000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="41" y="157" width="1484" height="611" extended-state="1" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26544943" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26510066" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.8870293" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.59779614" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -556,15 +356,15 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" weight="0.3294025" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32935393" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28548896" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26544943" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32735425" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.59779614" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -572,12 +372,12 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3292683" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" weight="0.3294025" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32935393" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -601,7 +401,6 @@
     <entry file="file://$PROJECT_DIR$/googleLineChartPhpJson.php" />
     <entry file="file://$PROJECT_DIR$/googleLineChart.php" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa4924.44654/SerialPortTest.php" />
-    <entry file="file://$PROJECT_DIR$/index.php" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa4924.47702/SerialPortTest.php" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a4f3f702-ddc4-47c3-a50a-272c3b7112f7/console.sql" />
     <entry file="file://$PROJECT_DIR$/ardu_ser.php">
@@ -684,9 +483,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/charts/googleLineChart.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/view.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="685">
@@ -700,6 +496,71 @@
           <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charts/googleLineChart.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-qrcode/composer.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/php/php.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="908" selection-start-line="908" selection-end-line="908" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connect_proc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connectPDO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa4644.44177/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="27" column="77" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="27" selection-end-column="77" />
+          <folding>
+            <element signature="e#9#15#0" expanded="true" />
+            <element signature="e#28#34#0" expanded="true" />
+            <element signature="e#36#42#0" expanded="true" />
+            <element signature="e#53#59#0" expanded="true" />
+            <element signature="e#61#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="38" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
+          <folding>
+            <element signature="e#9#15#0" expanded="true" />
+            <element signature="e#28#34#0" expanded="true" />
+            <element signature="e#36#42#0" expanded="true" />
+            <element signature="e#53#59#0" expanded="true" />
+            <element signature="e#61#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add.php">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

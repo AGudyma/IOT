@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataSource name="testing@localhost">
+<dataSource name="test_arduino@192.168.0.103">
   <database-model serializer="dbm" rdbms="MYSQL" format-version="4.9">
     <root id="1">
       <ServerVersion>5.6.38</ServerVersion>
@@ -10,11 +10,11 @@
     <schema id="2" parent="1" name="Catalogue">
       <Collation>utf8_general_ci</Collation>
     </schema>
-    <schema id="3" parent="1" name="information_schema">
+    <schema id="3" parent="1" name="IOT">
       <Collation>utf8_general_ci</Collation>
     </schema>
-    <schema id="4" parent="1" name="labCatalogue">
-      <Collation>koi8u_bin</Collation>
+    <schema id="4" parent="1" name="information_schema">
+      <Collation>utf8_general_ci</Collation>
     </schema>
     <schema id="5" parent="1" name="mysql">
       <Collation>utf8_general_ci</Collation>
@@ -22,7 +22,7 @@
     <schema id="6" parent="1" name="performance_schema">
       <Collation>utf8_general_ci</Collation>
     </schema>
-    <schema id="7" parent="1" name="testing">
+    <schema id="7" parent="1" name="test_arduino">
       <Current>1</Current>
       <Visible>1</Visible>
       <Collation>utf8_general_ci</Collation>
@@ -903,37 +903,27 @@
       <Charset>utf8mb4</Charset>
       <DefaultForCharset>0</DefaultForCharset>
     </collation>
-    <table id="227" parent="7" name="tbl_sensors_data">
-      <Collation>latin1_swedish_ci</Collation>
-    </table>
-    <column id="228" parent="227" name="sensors_data_id">
+    <table id="227" parent="7" name="hello_arduino"/>
+    <column id="228" parent="227" name="num">
       <Position>1</Position>
       <DataType>int(11)|0s</DataType>
       <NotNull>1</NotNull>
       <SequenceIdentity>1</SequenceIdentity>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="229" parent="227" name="sensors_temperature_data">
+    <column id="229" parent="227" name="message">
       <Position>2</Position>
-      <DataType>varchar(30)|0s</DataType>
-      <NotNull>1</NotNull>
+      <DataType>char(40)|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="230" parent="227" name="sensors_data_date">
+    <column id="230" parent="227" name="recorded">
       <Position>3</Position>
-      <DataType>date|0s</DataType>
-      <NotNull>1</NotNull>
+      <DataType>timestamp|0s</DataType>
       <ColumnKind>normal</ColumnKind>
     </column>
-    <column id="231" parent="227" name="sensors_data_time">
-      <Position>4</Position>
-      <DataType>time|0s</DataType>
-      <NotNull>1</NotNull>
-      <ColumnKind>normal</ColumnKind>
-    </column>
-    <key id="232" parent="227" name="PRIMARY">
+    <key id="231" parent="227" name="PRIMARY">
       <NameSurrogate>1</NameSurrogate>
-      <ColNames>sensors_data_id</ColNames>
+      <ColNames>num</ColNames>
       <Primary>1</Primary>
     </key>
   </database-model>

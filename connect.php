@@ -1,19 +1,14 @@
 <?php
+// Create connection
+$servername = "192.168.0.103";
+$username = "root";
+$password = "";
 
-	function Connection(){
-		$server="server";
-		$user="user";
-		$pass="pass";
-		$db="database";
-	   	
-		$connection = mysql_connect($server, $user, $pass);
+$conn = new mysqli($servername, $username, $password);
 
-		if (!$connection) {
-	    	die('MySQL ERROR: ' . mysql_error());
-		}
-		
-		mysql_select_db($db) or die( 'MySQL ERROR: '. mysql_error() );
-
-		return $connection;
-	}
-?>
+// Check connection
+if ($conn->connect_error) {
+    echo "!" . "<br>";
+    die("Connection failed: " . $conn->connect_error);
+}
+echo "Connected successfully";
