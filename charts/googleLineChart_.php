@@ -1,4 +1,19 @@
-<html>
+<?php
+
+    include_once ("C:\OSPanel\domains\IOT\connectPDO.php");
+
+
+  if($result!==FALSE){
+
+      foreach ($result as $point) {
+//
+              echo $point["recorded"], $point["num"], $point["message"];
+      }
+  }
+?>
+
+
+    <html>
 <head>
     <title>Google Charts Tutorial</title>
     <script type = "text/javascript" src = "https://www.gstatic.com/charts/loader.js"></script>
@@ -15,12 +30,12 @@
         // Define the chart to be drawn.
         var data = new google.visualization.DataTable();
         data.addColumn('string', 'Month');
-        data.addColumn('number', 'Tokyo');
+        data.addColumn('number', 'Num');
         data.addColumn('number', 'New York');
         data.addColumn('number', 'Berlin');
         data.addColumn('number', 'London');
         data.addRows([
-            ['Jan',  7.0, -0.2, -0.9, 3.9],
+            ["Jan",  7.0, -0.2, -0.9, 3.9],
             ['Feb',  6.9, 0.8, 0.6, 4.2],
             ['Mar',  9.5,  5.7, 3.5, 5.7],
             ['Apr',  14.5, 11.3, 8.4, 8.5],
@@ -36,12 +51,12 @@
         ]);
 
         // Set chart options
-        var options = {'title' : 'Average Temperatures of Cities',
+        var options = {'title' : 'simple representation',
             hAxis: {
-                title: 'Month'
+                title: 'Time'
             },
             vAxis: {
-                title: 'Temperature'
+                title: 'Number'
             },
             'width':550,
             'height':400,

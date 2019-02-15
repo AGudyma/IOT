@@ -1,12 +1,14 @@
 <?php
 //index.php
-$connect = mysqli_connect("192.168.1.7", "root", "", "testing");
-$query = '
-SELECT sensors_temperature_data, 
-UNIX_TIMESTAMP(CONCAT_WS(" ", sensors_data_date, sensors_data_time)) AS datetime 
-FROM tbl_sensors_data 
-ORDER BY sensors_data_date DESC, sensors_data_time DESC
-';
+//$connect = mysqli_connect("192.168.1.7", "root", "", "testing");
+//$query = '
+//SELECT sensors_temperature_data,
+//UNIX_TIMESTAMP(CONCAT_WS(" ", sensors_data_date, sensors_data_time)) AS datetime
+//FROM tbl_sensors_data
+//ORDER BY sensors_data_date DESC, sensors_data_time DESC
+//';
+include_once ("C:\OSPanel\domains\IOT\connectPDO.php");
+
 $result = mysqli_query($connect, $query);
 $rows = array();
 $table = array();
@@ -22,7 +24,7 @@ $table['cols'] = array(
     )
 );
 
-while($row = mysqli_fetch_array($result))
+while($row = $result)
 {
     $sub_array = array();
     $datetime = explode(".", $row["datetime"]);
